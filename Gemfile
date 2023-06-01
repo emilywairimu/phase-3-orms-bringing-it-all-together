@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
 
 gem "sqlite3", "~> 1.4"
 
